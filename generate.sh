@@ -1,5 +1,5 @@
 #!/bin/bash -ex
 dpkg-scanpackages . > Packages
-gzip -k -9 Packages
+gzip -9kf Packages
 apt-ftparchive release . > Release
-gpg -abs -o Release.gpg Release
+gpg --yes -abs -o Release.gpg Release

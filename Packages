@@ -1,0 +1,16 @@
+Package: ssh-tunnel-proxy
+Version: 0.0.5
+Architecture: all
+Maintainer: Stefan Sundin <stefan@stefansundin.com>
+Installed-Size: 28
+Depends: ruby, ruby-net-ssh
+Filename: ./ssh-tunnel-proxy_0.0.5_all.deb
+Size: 4920
+MD5sum: c4c417b869b4b0cb8dedc430851c6ef5
+SHA1: 0d30abc823859a5b0916b2e9498654f2d1b99307
+SHA256: b57b5f1417e457e13bfcee6fca68218267f1a7ff6a9227448a0c786896c30baf
+Section: net
+Priority: optional
+Homepage: https://github.com/stefansundin/ssh-tunnel-proxy
+Description: Proxy that automatically opens SSH tunnels when connections are received.
+
