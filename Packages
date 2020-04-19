@@ -1,14 +1,14 @@
 Package: ssh-tunnel-proxy
-Version: 0.0.6
+Version: 0.0.7
 Architecture: all
 Maintainer: Stefan Sundin <stefan@stefansundin.com>
-Installed-Size: 28
+Installed-Size: 35
 Depends: ruby, ruby-net-ssh
-Filename: ./ssh-tunnel-proxy_0.0.6_all.deb
-Size: 5022
-MD5sum: 65eb5b3508b679febb919eda70f295b1
-SHA1: 3c6ead8467ebe2d60b3cc6f1803d65b9ac381d2e
-SHA256: 009fe9bda780e81c33e370273fed1ef553ebdb78efc7e2d027afddaadc9ee0af
+Filename: ./ssh-tunnel-proxy_0.0.7_all.deb
+Size: 6048
+MD5sum: d27a094d76d434bc1876b857436fd75f
+SHA1: 362053fc0d465184aff04ff140439b1eff1856fb
+SHA256: 7f3394ec130885c5c3c26911364f07b99513db6b03b17b2d3a30e18e7f103ffd
 Section: net
 Priority: optional
 Homepage: https://github.com/stefansundin/ssh-tunnel-proxy
